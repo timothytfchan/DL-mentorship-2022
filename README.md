@@ -1,6 +1,6 @@
 # DL-mentorship-2022
 Notebook files originally written in Google Colab.
-These files were created while studying up on computer vision and NLP under a mentor from NVIDIA, in Apr-Jun 2022.
+These files were created while studying up on computer vision and NLP under a mentor from NVIDIA Hong Kong, in Apr-Jun 2022.
 This repository contains the files that are shareable. Not all files are included. A literature review I wrote is not included in this repository.
 
 In cifar_10_resnets_reimplementation.ipynb I reimplement some ResNet networks from He et al. 2015, from scratch.
